@@ -1,0 +1,16 @@
+# Source Files (Extraction)
+*.pdf
+*.py
+content.txt
+content2.txt
+
+# Tools and IDEs
+.gemini/
+.vscode/
+.idea/
+.DS_Store
+thumbs.db
+
+# Temp files
+*.tmp
+*.log
